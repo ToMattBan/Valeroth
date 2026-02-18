@@ -10,6 +10,7 @@
 - Login simples de usuário (Não personagem)
   - Possibilitar ver personagens antigos
 
+
 # Requisitos Visuais
 - Checar se personagem foi criado no dispositivo para a campanha atual
   - Se sim, abrir direto a tela do personagem
@@ -18,11 +19,12 @@
   - Criar personagem "conversando" com o sistema
   - Setar dados básicos e dados comuns
 - Existir tela de personagem
-  - Precisa conter:
+  - Precisa conter: 
     - Nome
     - História
     - Atributos do personagem
     - Inventário
+    - Dados "extras" (Mudam conforme campanha)
   - Mapa
 - Existir tela do Mestre
   - Informações de cada personagem
