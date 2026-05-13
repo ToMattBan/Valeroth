@@ -2,4 +2,5 @@ pre-commit:
   parallel: true
   jobs:
     - run: pnpm lint:fix
+      stage_fixed: true
     - run: pnpm audit
