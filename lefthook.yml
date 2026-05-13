@@ -1,0 +1,6 @@
+pre-commit:
+  parallel: false
+  jobs:
+    - run: pnpm lint:fix
+    - run: pnpm lint
+    - run: pnpm audit
